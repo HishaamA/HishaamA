@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aspireflight
-- 👀 I’m interested in Python & HTML, CSS
-- 🌱 I’m currently learning Python & HTML, CSS
+- 👀 I’m interested in SpaceFlight, Aviation and Technology
+- 🌱 I’m am Profeciant in/learning Python & HTML, CSS
 - 📫 Email: email@aspireflight.codes
 - Discord: **AspireFlight#0946**
 <!---
