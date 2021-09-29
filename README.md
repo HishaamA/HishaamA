@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AspireFlight</h1>
 <h3 align="center">Achieve The Impossible</h3>
 <div align="center">
-<img width="100%" height = "250px" src="https://pbs.twimg.com/profile_banners/1409802697230802944/1631370555/1500x500" alt="cover" />
+<img width="100%" height = "500px" src="https://pbs.twimg.com/profile_banners/1409802697230802944/1631370555/1500x500" alt="cover" />
 </div>
 <p align="left"> <a href="https://twitter.com/aspire_flight" target="blank"><img src="https://img.shields.io/twitter/follow/aspire_flight?logo=twitter&style=for-the-badge" alt="aspire_flight" /></a> </p>
 
