@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/aspire_flight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aspire_flight" height="30" width="40" /></a>
 <a href="https://www.behance.net/aspireflight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="aspireflight" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucar_lteonmcpcmppoutwqdg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucar_lteonmcpcmppoutwqdg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucar_lteonmcpcmppoutwqdg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucar_lteonmcpcmppoutwqdg" height="30" width="40" /></a>
 <a href="https://discord.gg/szpyu6cK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="szpyu6cK" height="30" width="40" /></a>
 </p>
 
