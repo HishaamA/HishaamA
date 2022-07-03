@@ -4,7 +4,6 @@
 <img width="100%" src="https://cdn.discordapp.com/attachments/868425148859035669/993192845177536512/Group_3.png" alt="cover" />
 </div>
 <a href="https://twitter.com/AbdulHishaam" class="twitter-follow-button" data-show-count="false" data-size="medium">Follow @AbdulHishaam</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 - 🔭 I’m currently working on **A Quick Polling Website**
 
