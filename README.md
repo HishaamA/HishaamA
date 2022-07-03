@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm AspireFlight</h1>
+<h1 align="center">Hey 👋, I'm Hishaam Abdul</h1>
 
 <div align="center">
-<img width="100%" src="https://media.discordapp.net/attachments/911644344669315102/934844321205714964/banner.png" alt="cover" />
+<img width="100%" src="https://cdn.discordapp.com/attachments/868425148859035669/993192845177536512/Group_3.png" alt="cover" />
 </div>
 <p align="left"> <a href="https://twitter.com/aspire_flight" target="blank"><img src="https://img.shields.io/twitter/follow/aspire_flight?logo=twitter&style=for-the-badge" alt="aspire_flight" /></a> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 Reach me over at [www.aspireflight.xyz](www.aspireflight.xyz)
 
-- 📫 How to reach me **email@aspireflight.xyz**
+- 📫 How to reach me **hello@hishaamabdul.com**
 
 - ⚡ Fun fact **The name AspireFlight is taken from two words together. The word ASPIRE meaning to rise towards an object or to have a great Goal in mind, and FLIGHT which represents DEPARTURE for an Object Sent Into Outer-Space. Thus basically the meaning of the word ASPIRATION is to have a great goal in mind, work hard for it and fly up towards it.**
 
