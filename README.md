@@ -8,4 +8,6 @@
 
 ## Tools
 ### Code
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nextjs,tailwind,python)](https://hishaamabdul.com)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nextjs,tailwind,ts,python)](https://hishaamabdul.com)
+### Design
+[![My Skills](https://skillicons.dev/icons?i=ae,ai,pr,ps,figma)](https://hishaamabdul.com)
