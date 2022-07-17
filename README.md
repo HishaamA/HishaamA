@@ -6,7 +6,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/993204195559747664)](https://discord.com/users/993204195559747664)
 
-## Tools
+# Tools
 ### Code
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nextjs,tailwind,ts,python)](https://hishaamabdul.com)
 ### Design
