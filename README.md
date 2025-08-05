@@ -8,8 +8,9 @@ Dubai • hishaam@ampierelabs.com
 ---
 
 I’m passionate about **AI, education, and space science**, and I love working on projects that leverage technology to create real-world impact.  
-I co-founded **AmpiereLabs**, where we built [**WellSpace**](https://ampierelabs.com/wellspace), a platform helping schools support student wellbeing.
+We're building [**WellSpace**](https://wellspace.ampiere.co/), a platform helping schools support student wellbeing. 
+And [**SlateFront**](https://slatefront.ampierelabs.com/)
 
 ---
 
-### [Achievements and Awards →](#)
+### [Achievements and Awards →](https://hishaamabdul.com/achievements)
