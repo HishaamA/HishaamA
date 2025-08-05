@@ -13,4 +13,4 @@ And [**SlateFront**](https://slatefront.ampierelabs.com/)
 
 ---
 
-### [Achievements and Awards →](https://hishaamabdul.com/achievements)
+### [Achievements and Awards →](https://hishaam.me/achievements)
